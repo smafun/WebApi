@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{74DA017E-D545-4535-99C7-854476160859}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtendedWebApi/Controllers/OrderController.cs">
+    <Files>
+      <File FileName="ExtendedWebApi/Models/Customer.cs" Line="13" Column="2" />
+      <File FileName="ExtendedWebApi/Models/Order.cs" Line="13" Column="35" />
+      <File FileName="ExtendedWebApi/Controllers/OrderController.cs" Line="65" Column="10" />
+      <File FileName="ExtendedWebApi/Controllers/CustomerController.cs" Line="93" Column="1" />
+      <File FileName="ExtendedWebApi/Models/OrderServiceType.cs" Line="10" Column="1" />
+      <File FileName="ExtendedWebApi/Models/ServiceType.cs" Line="7" Column="23" />
+      <File FileName="ExtendedWebApi/Data/DataContext.cs" Line="4" Column="5" />
+      <File FileName="ExtendedWebApi/Controllers/ServiceTypesController.cs" Line="56" Column="58" />
+      <File FileName="ExtendedWebApi/Startup.cs" Line="46" Column="1" />
+      <File FileName="ExtendedWebApi/Program.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExtendedWebApi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

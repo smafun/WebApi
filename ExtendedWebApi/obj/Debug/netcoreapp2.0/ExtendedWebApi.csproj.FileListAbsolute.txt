@@ -1,0 +1,22 @@
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/bin/Debug/netcoreapp2.0/ExtendedWebApi.deps.json
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/bin/Debug/netcoreapp2.0/ExtendedWebApi.runtimeconfig.json
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/bin/Debug/netcoreapp2.0/ExtendedWebApi.runtimeconfig.dev.json
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/bin/Debug/netcoreapp2.0/ExtendedWebApi.dll
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/bin/Debug/netcoreapp2.0/ExtendedWebApi.pdb
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/obj/Debug/netcoreapp2.0/ExtendedWebApi.csproj.CoreCompileInputs.cache
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/obj/Debug/netcoreapp2.0/ExtendedWebApi.AssemblyInfoInputs.cache
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/obj/Debug/netcoreapp2.0/ExtendedWebApi.AssemblyInfo.cs
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/obj/Debug/netcoreapp2.0/ExtendedWebApi.dll
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/obj/Debug/netcoreapp2.0/ExtendedWebApi.pdb
+/Users/tuananhle/Desktop/Inmeta Next/ExtendedWebApi/ExtendedWebApi/obj/Debug/netcoreapp2.0/ExtendedWebApi.csprojResolveAssemblyReference.cache
+D:\Inmeta\WebApi\ExtendedWebApi\bin\Debug\netcoreapp2.0\ExtendedWebApi.deps.json
+D:\Inmeta\WebApi\ExtendedWebApi\bin\Debug\netcoreapp2.0\ExtendedWebApi.runtimeconfig.json
+D:\Inmeta\WebApi\ExtendedWebApi\bin\Debug\netcoreapp2.0\ExtendedWebApi.runtimeconfig.dev.json
+D:\Inmeta\WebApi\ExtendedWebApi\bin\Debug\netcoreapp2.0\ExtendedWebApi.dll
+D:\Inmeta\WebApi\ExtendedWebApi\bin\Debug\netcoreapp2.0\ExtendedWebApi.pdb
+D:\Inmeta\WebApi\ExtendedWebApi\obj\Debug\netcoreapp2.0\ExtendedWebApi.csprojResolveAssemblyReference.cache
+D:\Inmeta\WebApi\ExtendedWebApi\obj\Debug\netcoreapp2.0\ExtendedWebApi.csproj.CoreCompileInputs.cache
+D:\Inmeta\WebApi\ExtendedWebApi\obj\Debug\netcoreapp2.0\ExtendedWebApi.AssemblyInfoInputs.cache
+D:\Inmeta\WebApi\ExtendedWebApi\obj\Debug\netcoreapp2.0\ExtendedWebApi.AssemblyInfo.cs
+D:\Inmeta\WebApi\ExtendedWebApi\obj\Debug\netcoreapp2.0\ExtendedWebApi.dll
+D:\Inmeta\WebApi\ExtendedWebApi\obj\Debug\netcoreapp2.0\ExtendedWebApi.pdb
